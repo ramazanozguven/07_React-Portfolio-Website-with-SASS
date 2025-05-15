@@ -1,7 +1,8 @@
 # 🌐 React Portfolio Website mit SASS
 ## 📷 Vorschau
 
-![Vorschau der Portfolio-Website]([https://github.com/dein-benutzername/dein-repo-name/raw/main/preview.png](https://github.com/ramazanozguven/07_React-Portfolio-Website-with-SASS/blob/36f8959182526e4bccb0592c9315ed5246e5898f/SCREENSCHOT.png))
+![Vorschau der Portfolio-Website](./SCREENSCHOT.png)
+
 
 
 Dies ist ein persönliches Portfolio-Projekt, entwickelt mit **React** und **SASS (SCSS)**. Die Webseite ist vollständig responsiv und dient dazu, meine Projekte, Fähigkeiten und beruflichen Erfahrungen auf moderne Weise darzustellen.
