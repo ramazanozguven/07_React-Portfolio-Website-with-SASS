@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# 🌐 React Portfolio Website mit SASS
+## 📷 Vorschau
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Vorschau der Portfolio-Website](https://github.com/dein-benutzername/dein-repo-name/raw/main/preview.png)
 
-## Available Scripts
 
-In the project directory, you can run:
+Dies ist ein persönliches Portfolio-Projekt, entwickelt mit **React** und **SASS (SCSS)**. Die Webseite ist vollständig responsiv und dient dazu, meine Projekte, Fähigkeiten und beruflichen Erfahrungen auf moderne Weise darzustellen.
 
-### `yarn start`
+## 📝 Beschreibung
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Diese Portfolio-Website wurde mit dem Ziel erstellt, eine professionelle Online-Präsenz aufzubauen. Sie zeigt nicht nur meine technischen Fähigkeiten im Bereich Frontend-Entwicklung, sondern legt auch einen besonderen Fokus auf Design, Benutzerfreundlichkeit und Performance.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Das Projekt ist modular aufgebaut, was eine einfache Erweiterung und Anpassung ermöglicht. Es kann problemlos von anderen Entwicklern als Vorlage für ihr eigenes Portfolio verwendet werden.
 
-### `yarn test`
+## 🎨 Warum SASS?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**SASS (Syntactically Awesome Stylesheets)** ist eine CSS-Präprozessor-Sprache, die das Schreiben von CSS strukturierter und effizienter macht. Ich habe SASS aus folgenden Gründen gewählt:
 
-### `yarn build`
+- **Variablen:** Ermöglicht die Wiederverwendung von Farben, Schriftarten, Abständen usw.
+- **Nesting:** Bessere Strukturierung von Styles durch verschachtelte Regeln.
+- **Mixins & Funktionen:** Reduziert Wiederholungen im Code.
+- **Wartbarkeit:** Der Code bleibt sauberer und leichter zu pflegen.
+- **Modularität:** Ideal für größere Projekte mit vielen Komponenten.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Durch den Einsatz von SASS konnte ich das Styling meiner Komponenten besser organisieren und die Entwicklung deutlich beschleunigen.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Technologien
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- ⚛️ React – für die Erstellung der Benutzeroberfläche
+- 🎨 SASS/SCSS – für strukturierte und wartbare Styles
+- 📱 Responsives Design – optimiert für Desktop, Tablet und Smartphone
